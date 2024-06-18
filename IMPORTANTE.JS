@@ -1,0 +1,1 @@
+console.log("Mt rui kkkk é os guri")
